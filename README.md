@@ -1,3 +1,6 @@
+### 此乃lite版本，把fastapi,streamlit，悬浮窗口，以及一些有问题的节点移除。 ###
+
+
 ![图片](img/封面.png)
 
 <div align="center">
